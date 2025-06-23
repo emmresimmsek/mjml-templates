@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+    <mj-title>NordBron</mj-title>
+  </mj-head>
+  
+  
+  
+  <mj-body background-color="#eeeeee">
+    <!-- 1.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/3ea291t.jpg" href="https://nordbron.com" alt="nordbron Logo" />
+      </mj-column>
+    </mj-section>
+    <!-- 2.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/biko6ff.jpg" href="https://nordbron.com" />
+      </mj-column>
+    </mj-section>
+    <!-- 3.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/t7tx86i.jpg" href="https://nordbron.com" />
+      </mj-column>
+    </mj-section>
+    <!-- 4.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/l57ns7c.jpg" href="https://nordbron.com" />
+      </mj-column>
+    </mj-section>
+    <!-- 5.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/o97y6va.jpg" href="https://nordbron.com" />
+      </mj-column>
+    </mj-section>
+    <!-- 6.Bölüm   -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/odawx50.jpg" href="https://nordbron.com" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#ffffff" />
+      <mj-section background-color="#000000" padding-left="60px" padding-right="60px" />
+    </mj-attributes>
+    <mj-breakpoint width="480px" /> <!-- Varsayılan breakpoint değeri: 480px -->
+    <!-- Google Fonts - Syne -->
+    <mj-font name="Syne" href="https://fonts.googleapis.com/css2?family=Syne" />
+    <mj-preview> Yaratıcı fikirlerle markanızı büyütüyoruz </mj-preview>
+    <mj-title>1CreativeAgency</mj-title>
+  </mj-head>
+  
+  
+  
+  <mj-body background-color="#ffffff">
+    <!-- 1.Bölüm  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image src="https://1creativeagency.com/wp-content/uploads/2022/10/1CreativeAgencyLight.png" href="https://1creativeagency.com" align="center" width="100px" target="_blank" />
+      </mj-column>
+    </mj-section>
+    <!-- 2.Bölüm: GIF Ekledik.  -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://i.hizliresim.com/orejqmn.gif" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <!-- 3.Bölüm:   -->
+    <mj-section padding-top="50px" padding-bottom="50px">
+      <mj-column>
+        <mj-text font-family=" Syne, Arial, sans-serif " font-weight="bold" align="left" padding-top="50px" font-size="30px"> BİZ KİMİZ ?</mj-text>
+        <mj-text font-family=" Syne, Arial, sans-serif " font-weight="bold" align="left" line-height="20px" font-size="20px"> İlham veren hikayelerimizden edindiğimiz bilgi birikimi ile markanıza değer katmak ve en iyi içerikleri üretmek için güçlü bir ekip oluşturduk. <br><br> 1CreativeAgency, markanızı en verimli şekilde analiz eden ve geliştiren bir kreatif ajanstır. Ürettiğimiz içeriklerin dışında en deneyimli iş ortaklarımız ile markanıza 360 derece pazarlama hizmeti sunuyoruz. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 4.Bölüm:   -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family=" Syne, Arial, sans-serif " font-weight="bold" align="center" line-height="30px" font-size="30px"> REFERANSLARIMIZ </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 5.Bölüm: Referanslar Görsel  -->
+    <mj-section padding-top="0px">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://1creativeagency.com/wp-content/uploads/2023/10/Untitled-2-07-150x150.png" width="120px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://1creativeagency.com/wp-content/uploads/2023/10/Untitled-2-16-150x150.png" width="120px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://1creativeagency.com/wp-content/uploads/2023/10/Untitled-2-19-150x150.png" width="120px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- 6.Bölüm  -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://1creativeagency.com/wp-content/uploads/2023/10/IMG_7804-Large-1024x576.jpeg" />
+        <mj-text font-family=" Syne, Arial, sans-serif " align="center" line-height="20px" font-size="20px" padding-top="50px"> İlham veren hikayelerimizden edindiğimiz bilgi birikimi ile markanıza değer katmak ve en iyi içerikleri üretmek için güçlü bir ekip oluşturduk. 1CreativeAgency, markanızı en verimli şekilde analiz eden ve geliştiren bir kreatif ajanstır. Ürettiğimiz içeriklerin dışında en deneyimli iş ortaklarımız ile markanıza 360 derece pazarlama hizmeti sunuyoruz.</mj-text>
+        <mj-text font-family=" Syne, Arial, sans-serif " align="center" line-height="20px" font-size="20px" padding-top="50px"> Hayallerinizi gerçekleştirmeniz için size yardımcı olmaya hazırız.</mj-text>
+        <mj-social align="center" icon-size="20px" mode="horizontal">
+          <mj-social-element href="https://www.instagram.com/1creativeagency/" src="https://i.hizliresim.com/mhzu86l.png " />
+          <mj-social-element href="https://www.linkedin.com/company/1creativeagency/" src="https://i.hizliresim.com/2k8ri8y.png " />
+          <mj-social-element href="https://www.youtube.com/channel/UCVWiHPbL1EtEtvwo86NZd4Q" src="https://i.hizliresim.com/c7lhzqe.png" />
+          </mj-social-element>
+        </mj-social>
+        <mj-text font-family=" Syne, Arial, sans-serif " align="center" line-height="20px" font-size="14px" padding-top="50px"> © 1CreativeAgency 2025 | Tüm Hakları Saklıdır.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>

@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-text color="#ffffff" />
+      <mj-section padding-left="30px" padding-right="30px" />
+    </mj-attributes>
+  </mj-head>
+  
+  
+  
+  <mj-body background-color="#ffffff">
+    <!-- 1.Bölüm:  Logo  -->
+    <mj-section background-color="#212529">
+      <mj-column>
+        <mj-image src="https://miuul.com/image/theme/logo-white.png" alt="miuul logo" href="https://miuul.com" width="100px" align="center" />
+      </mj-column>
+    </mj-section>
+    <!-- 2. Bölüm:  Navigasyon Menüsü -->
+    <mj-section background-color="#212529">
+      <mj-column>
+        <mj-navbar base-url="https://miuul.com/" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/katalog/bootcamps" color="#ffffff">BOOTCAPMS</mj-navbar-link>
+          <mj-navbar-link href="katalog/kariyer-yolculugu-programlari" color="#ffffff">KARİYER YOLCULUKLARI</mj-navbar-link>
+          <mj-navbar-link href="katalog/kurslar" color="#ffffff">KURSLAR</mj-navbar-link>
+          <mj-navbar-link href="iletisim" color="#ffffff">İLETİŞİM</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- 3. Bölüm -->
+    <mj-section background-url="https://i.hizliresim.com/55z7n44.jpg" background-size="cover" background-repeat="no-repeat" border-radius="0px 0px 30px 30px">
+      <mj-column>
+        <mj-text font-size="50px" padding-top="70px">Kariyerinizi Geleceğe Taşıyın</mj-text>
+        <mj-text font-size="15px">Miuul ile Profesyonel Gelişiminizi Hızlandırın </mj-text>
+        <mj-button align="left" background-color="#212529" font-weight="bold" href="https://miuul.com/iletisim" target="_blank" rel="noopener noreferrer"> İletişime Geç </mj-button>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+    <!-- 4. Bölüm: Referanslar -->
+    <mj-section padding-bottom="10px">-
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://miuul.com/image/sponsor/61707306d7562.png" width="110px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://miuul.com/image/sponsor/624852778c90b.png" width="110px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://miuul.com/image/sponsor/62a8746e878d2.png" width="110px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- 5. Bölüm:  -->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" font-size="30px" align="center"> Miuul geleceğin meslekleri için sektörün ihtiyaçlarına uygun kariyer yolculukları tasarlayan bir eğitim platformudur.</mj-text>
+        <mj-text color="#000000" font-size="15px" align="center"> Miuul, katılımcılarına veri bilimi, yapay zeka, yazılım ve daha birçok alanda uygulamalı eğitimler sunarak, iş dünyasında fark yaratacak yetkinlikler kazandırır.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 6. Bölüm:  -->
+    <mj-section background-color="#000000" border-radius="30px 30px 0px 0px" padding-top="70px" padding-bottom="70px">
+      <mj-column>
+        <mj-text font-size="15px" align="center"> Ekibinizin yetenek gelişimini tek platformdan yönetin. </mj-text>
+        <mj-button background-color="#ffffff" color="#000000" font-weight="bold" href="https://miuul.com/katalog/egitimler" target="_blank" rel="noopener noreferrer"> Kataloğa Git </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- 7. Bölüm: Sosyal Medya  -->
+    <mj-section background-color="#212529" padding-top="50px">
+      <mj-column>
+        <mj-text align="center"> Skills of tomorrow </mj-text>
+        <mj-social align="center" icon-size="20px" mode="horizontal">
+          <mj-social-element href="https://www.instagram.com/miuul.official/" src="https://i.hizliresim.com/mhzu86l.png " />
+          <mj-social-element href="https://www.linkedin.com/company/miuul" src="https://i.hizliresim.com/2k8ri8y.png " />
+          <mj-social-element href="https://www.youtube.com/c/Miuul" src="https://i.hizliresim.com/c7lhzqe.png" />
+          </mj-social-element>
+        </mj-social>
+        <mj-text align="center"> <a href="https://miuul.com/kvkk" style=" color:#ffffff; text-decoration: none;   ">KVKK Metni</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
