@@ -1,6 +1,6 @@
 ![image](/Kapak%20Görseli.jpg)
 
-# MJML Email Templates 
+# MJML E-mail Templates 
 
 Bu proje, çeşitli markalar için hazırlanmış MJML tabanlı responsive (mobil uyumlu) e-posta şablonlarını içerir.
 
