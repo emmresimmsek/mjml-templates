@@ -1,4 +1,4 @@
-![image](https://i.hizliresim.com/1cg9uqi.jpg)
+![image](/Kapak%20Görseli.jpg)
 
 # MJML Email Templates 
 
